@@ -1,0 +1,6 @@
+C:\Users\Cemil KAĞAN\source\repos\CsharpCourse\AsciCode\bin\Debug\AsciCode.exe.config
+C:\Users\Cemil KAĞAN\source\repos\CsharpCourse\AsciCode\bin\Debug\AsciCode.exe
+C:\Users\Cemil KAĞAN\source\repos\CsharpCourse\AsciCode\bin\Debug\AsciCode.pdb
+C:\Users\Cemil KAĞAN\source\repos\CsharpCourse\AsciCode\obj\Debug\AsciCode.csproj.CoreCompileInputs.cache
+C:\Users\Cemil KAĞAN\source\repos\CsharpCourse\AsciCode\obj\Debug\AsciCode.exe
+C:\Users\Cemil KAĞAN\source\repos\CsharpCourse\AsciCode\obj\Debug\AsciCode.pdb
